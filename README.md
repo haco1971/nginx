@@ -1,6 +1,7 @@
 # nginx
 Installing Nginx and Nginx-RTMP
-sudo apt-get install build-essential libpcre3 libpcre3-dev libssl-dev unzip
+sudo apt-get install build-essential libpcre3 libpcre3-dev libssl-dev
+sudo apt-get install unzip
 mkdir ~/working
 cd ~/working
 wget http://nginx.org/download/nginx-1.13.7.tar.gz
