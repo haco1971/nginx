@@ -62,3 +62,9 @@ To view streams open the following links in a player supporting RTMP.
 rtmp://your ip/live/stream-key-you-set
 rtmp://your ip/live360p/stream-key-you-set
 
+
+http://stream.visit-x.tv/vxtv/live_720p/chunklist_w315623707.m3u8
+http://stream.visit-x.tv/vxtv/live_360p/chunklist_w321146460.m3u8
+http://oklivetv.com
+http://adulttvchannels.ucoz.net
+http://kino-live.xyz/715727871-egoist-tv.html
