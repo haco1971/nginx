@@ -1,3 +1,13 @@
+https://www.youtube.com/watch?v=JvDMLNAxYbI
+
+
+
+
+
+
+
+
+
 # nginx
 Installing Nginx and Nginx-RTMP
 sudo apt-get install build-essential libpcre3 libpcre3-dev libssl-dev
