@@ -1,6 +1,6 @@
-LOGIN="test@example.com"
-PASSWORD=MyPassword
-INTERFACE=wlan0
+LOGIN="eltholth2010@gmail.com"
+PASSWORD=eltholth751971
+INTERFACE=eth0
 INTERVAL=30
 
 mkdir -p "$HOME/src/noip"
