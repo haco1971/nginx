@@ -2,7 +2,7 @@ https://www.youtube.com/watch?v=JvDMLNAxYbI
 
 http://downloadns.citrix.com.edgesuite.net/akdlm/8159/XenServer-6.2.0-install-cd.iso
 
-
+http://5.8.51.109:1234/play/ohahhd?auth=larin:HKRKR8Jd
 
 
 
