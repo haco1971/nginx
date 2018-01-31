@@ -1,3 +1,5 @@
+https://www.mzarita.tv/video/show.php?vid=ae715314d
+
 https://www.youtube.com/watch?v=kLg8kNPg7DE
 
 http://www.mediafire.com/file/5yndrs88pie88nz/wifislax64-1.1-final.iso
